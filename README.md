@@ -1,4 +1,4 @@
-# sa_re_ga_ma_miusic
+# sa_re_ga_ma_music
 
 A new Flutter project.
 
