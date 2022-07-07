@@ -1,4 +1,4 @@
-# sa_re_ga_ma_music
+# SaReGaMa Music app
 
 Play and Enjoy your own tunes
 
