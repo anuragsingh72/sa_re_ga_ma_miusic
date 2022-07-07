@@ -2,5 +2,3 @@
 
 Play and Enjoy your own tunes
 
-## Getting Started
-
